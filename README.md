@@ -22,7 +22,7 @@ Just my 2 cents. Useful resources I came across.
     4. BootStrap Pro - Free as long as you're a student.
 
 ## Coding Practice
-   1. For Introduction
+   1. ### **For Introduction**
       1. [Exercism.io](https://exercism.io/) - CLI Interface submissions. Familiarity with terminal required.
       2. [Nodeschool.io](https://nodeschool.io/) - Tutorial Packages with exercise have to be completed on your own system, and the app checks your progress locally.
       3. Educative.io 
@@ -34,7 +34,7 @@ Just my 2 cents. Useful resources I came across.
          1. [Learning Node.js Fundamentals](https://next.tech/catalog/learning-node-js-fundamentals) - Create a Note keeping app as part of the course. No GUI, only Command Line Interface (CLI).   
          2. [Asynchronous Programming in Node.js](https://next.tech/catalog/asynchronous-programming-in-node-js) - CLI App to fetch weather data of a Location. Make use of `Google GeoCode API` and `OpenWeatherMaps API`. Highly recommended Course. 
    
-   2. Competitive Programming
+   2. ### **Competitive Programming**
       1. [CommonLounge CP Track](https://www.commonlounge.com/discussion/5d2822257dfa49328d85fd27cf114441) - Great Tutorials (Text & few Videos) with a good selection of problems from Codechef, CodeForces and the like. 
 
 ## Online Courses
