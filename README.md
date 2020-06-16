@@ -6,6 +6,7 @@ Just my 2 cents. Useful resources I came across.
 2. [GitHub Student Developer](#github-student-developer)
 3. [Coding Practice](#coding-practice)
 4. [Online Courses](#online-courses)
+5. [Useful Chrome Extensions](#useful-chrome-extensions)
 
 ## Resources for Learning Git
   >*Note: Follow these in order* 
@@ -39,3 +40,11 @@ Just my 2 cents. Useful resources I came across.
 ## Online Courses
    1. [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/) - Using Octave/MATLAB
    2. [Algorithmic Toolbox by UCSD](https://www.coursera.org/learn/algorithmic-toolbox) - Good Problem Sets, Beginner Friendly
+
+## Useful Chrome Extensions
+>*Note :If a link doesn't work, search on Google once? If still in doubt, [ask me](github.com/arpitkaushal). *
+   1. [Video Speed Controller](https://www.facebook.com/watch/?v=2306635449599195) - Speed control (upto `16x` with a step size of `0.1x`) for videos (and even GIFs) on all platforms. 
+   2. [Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk?hl=en) - Display GitHub Flavored (other options available too) previews of your markdown file. Renders LaTeX as well. Really handy tool!
+   3. [Ad Block](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom) - `Hack` Prevent adds on YouTube and YouTube Music. So, ad free content withouting paying a dime!
+   4. [Quick Key](https://chrome.google.com/webstore/detail/quickey-%E2%80%93-the-quick-tab-s/ldlghkoiihaelfnggonhjnfiabmaficg) - Switch between Tabs seemlessly. Just press `Alt + Q` and type the tab's name, or even the content on that  tab. You'll save tons of time, trust me!
+   5. [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en) - Another productivity tool, save a set of tabs/windows for later.  
