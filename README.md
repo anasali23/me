@@ -7,7 +7,7 @@ Just my 2 cents. Useful resources I came across.
 3. [**Coding Practice**](#coding-practice)
    1. [**For Introduction**](#for-introduction)
    2. [**Competitive Programming**](#competitive-programming)
-4. [Online Courses](#online-courses)
+4. [**Online Courses**](#online-courses)
 5. [**Useful Chrome Extensions**](#useful-chrome-extensions)
 
 ## **Resources for Learning Git**
@@ -39,7 +39,7 @@ Just my 2 cents. Useful resources I came across.
    ### **Competitive Programming**
    1. [CommonLounge CP Track](https://www.commonlounge.com/discussion/5d2822257dfa49328d85fd27cf114441) - Great Tutorials (Text & few Videos) with a good selection of problems from Codechef, CodeForces and the like. 
 
-## Online Courses
+## **Online Courses**
    1. [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/) - Using Octave/MATLAB
    2. [Algorithmic Toolbox by UCSD](https://www.coursera.org/learn/algorithmic-toolbox) - Good Problem Sets, Beginner Friendly
 
