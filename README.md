@@ -1,4 +1,3 @@
-
 ---
 html:
   embed_local_images: true
@@ -12,11 +11,10 @@ print_background: false
 Just my 2 cents. Useful resources I came across. 
 
 
-1. [print_background: false](#print_background-false)
-2. [Resources for Learning Git](#resources-for-learning-git)
-3. [GitHub Student Developer](#github-student-developer)
-4. [Coding Practice](#coding-practice)
-5. [Online Courses](#online-courses)
+1. [Resources for Learning Git](#resources-for-learning-git)
+2. [GitHub Student Developer](#github-student-developer)
+3. [Coding Practice](#coding-practice)
+4. [Online Courses](#online-courses)
 
 ## Resources for Learning Git
   >*Note: Follow these in order* 
