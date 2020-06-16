@@ -44,8 +44,8 @@ Just my 2 cents. Useful resources I came across.
    2. [Algorithmic Toolbox by UCSD](https://www.coursera.org/learn/algorithmic-toolbox) - Good Problem Sets, Beginner Friendly
 
 ## **Useful Chrome Extensions**
->*Note: If a link doesn't work, search on Google once? If still in doubt, [ask me](github.com/arpitkaushal).*
-   1. [Video Speed Controller](https://www.facebook.com/watch/?v=2306635449599195) - Speed control (upto `16x` with a step size of `0.1x`) for videos (and even GIFs) on all platforms. 
+>*Note: If a link doesn't work, search on Google once? If still in doubt, [ask me](https://github.com/arpitkaushal/tipsandhacks#competitive-programming).*
+   1. [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en#:~:text=Once%20the%20extension%20is%20installed,seconds%20%2B%20lowers%20playback%20speed).) - Speed control (upto `16x` with a step size of `0.1x`) for videos (and even GIFs) on all platforms. 
    2. [Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk?hl=en) - Display GitHub Flavored (other options available too) previews of your markdown file. Renders LaTeX as well. Really handy tool!
    3. [Ad Block](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom) - `Hack` Prevent adds on YouTube and YouTube Music. So, ad free content withouting paying a dime!
    4. [Quick Key](https://chrome.google.com/webstore/detail/quickey-%E2%80%93-the-quick-tab-s/ldlghkoiihaelfnggonhjnfiabmaficg) - Switch between Tabs seemlessly. Just press `Alt + Q` and type the tab's name, or even the content on that  tab. You'll save tons of time, trust me!
