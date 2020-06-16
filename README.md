@@ -1,12 +1,3 @@
----
-html:
-  embed_local_images: true
-  embed_svg: true
-  offline: true
-  toc: true
-
-print_background: false
----
 ># Tips and Hacks
 Just my 2 cents. Useful resources I came across. 
 
