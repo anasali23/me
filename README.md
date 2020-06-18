@@ -3,6 +3,7 @@ Just my 2 cents. Useful resources I came across.
 
 >### Table of Contents 
 *Following Links are on the same page!*
+
 1. [Resources for Learning Git](#resources-for-learning-git)
 2. [GitHub Student Developer](#github-student-developer)
 3. [Coding Practice](#coding-practice)
@@ -13,16 +14,18 @@ Just my 2 cents. Useful resources I came across.
 
 ## Resources for Learning Git
 >*Note: Follow these in order* 
+
 1. [Git it](https://github.com/jlord/git-it-electron/releases) - A tutorial app, very beginner friendly. By the end of the instructions, you'll have contributed to a repository. 
 2. [Github Lab](https://lab.github.com/) - GitHub's own course tracks to learn Git. 
 3. [Learn Git Branching](https://learngitbranching.js.org/) - Tutorials, with interactive exercises right after new lessons. Highly recommended.
 4. [Git Visualization Tool](http://git-school.github.io/visualizing-git/) - Excellent tool to help visualize and understand workflow.
+
 ## GitHub Student Developer
 Signup for GitHub Student with your institute ID to avail tons of free (which is otherwise paid) services. Just Search for `GitHub Student` on Google, and the first result. 
- 1. GitHub Pro - Complimentary as long as you're a student.
- 2. [Next.Tech](https://next.tech/)
- 3. [Educative.io](https://educative.io/)
- 4. BootStrap Pro - Free as long as you're a student.
+1. GitHub Pro - Complimentary as long as you're a student.
+2. [Next.Tech](https://next.tech/)
+3. [Educative.io](https://educative.io/)
+4. BootStrap Pro - Free as long as you're a student.
 
 ## Coding Practice
 ### For Introduction
