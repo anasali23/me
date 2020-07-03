@@ -8,7 +8,7 @@ Just my 2 cents. Useful resources I came across.
 2. [GitHub Student Developer](#github-student-developer)
 3. [Coding Practice](#coding-practice)
    1. [For Introduction](#for-introduction)
-   2. [Competitive Programming](#competitive-programming)
+   2. [Competitive Programming / Interview Prep](#competitive-programming--interview-prep)
 4. [Online Courses](#online-courses)
 5. [Useful Chrome Extensions](#useful-chrome-extensions)
 
@@ -35,17 +35,32 @@ Signup for GitHub Student with your institute ID to avail tons of free (which is
    >*Note: Make sure you've signed up on [Educative.io](https://educative.io/) via GitHub Student Devleoper.*
    1. [Learn C++ from Scratch](https://www.educative.io/courses/learn-cpp-from-scratch) - Excellent Tutorials with ample exercise along the way.
    2. [Bash for Programmers](https://www.educative.io/courses/bash-for-programmers) - Minimum amount of command line experience that you should have! 
+   3. [RegEx in Py](https://www.educative.io/courses/python-regular-expressions-with-data-scraping-projects/) - Has Single File Projects
+   4. [JS App from Scratch](https://www.educative.io/courses/the-complete-javascript-course-build-a-real-world-app-from-scratch)  - Social News Web Application
+   5. [Machine Learning for Software Engineers](https://www.educative.io/courses/machine-learning-for-software-engineers) - Numby, Panda, SciKit, Keras, TF
+   6.  [Machine Learning Track](https://www.educative.io/track/become-ml-engineer) - 5 courses. Great Deal.  
 4. Node.js on Next.tech
    >*Note: Make sure you've signed up on [Next.tech](https://next.tech/) via GitHub Student Devleoper.*
    1. [Learning Node.js Fundamentals](https://next.tech/catalog/learning-node-js-fundamentals) - Create a Note keeping app as part of the course. No GUI, only Command Line Interface (CLI).   
    2. [Asynchronous Programming in Node.js](https://next.tech/catalog/asynchronous-programming-in-node-js) - CLI App to fetch weather data of a Location. Make use of `Google GeoCode API` and `OpenWeatherMaps API`. Highly recommended Course. 
-
-### Competitive Programming
+5. [Awesome Roadmaps](https://roadmap.sh/) - Curated paths in Software-WebDev-ML to prevent you from getting lost. 
+   
+### Competitive Programming / Interview Prep
 1. [CommonLounge CP Track](https://www.commonlounge.com/discussion/5d2822257dfa49328d85fd27cf114441) - Great Tutorials (Text & few Videos) with a good selection of problems from Codechef, CodeForces and the like. 
+2. [Codesignal](https://app.codesignal.com)
+3. [Interview Cake](https://interviewcake.com) - 3 weeks free with Github Student
+4. [LeetCode](https://leetcode.com/explore/learn/) - Explore Section with assorted lessons and problems.
+5. [Educative.io](https://educative.io/courses/) 
+   1. [CP in C++](https://www.educative.io/courses/competitive-programming-in-cpp-keys-to-success/) - Currently Free
+   2. [DP in Py](https://www.educative.io/courses/dynamic-programming-in-python) - DP course
+      1. [6 DP Problems for Interview](https://www.educative.io/blog/6-dp-problems-to-solve-for-your-next-coding-interview) - Commonly asked problems
+6. [Next.tech](https://next.tech) - 100 JS Challenges     
 
 ## Online Courses
 1. [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/) - Using Octave/MATLAB
 2. [Algorithmic Toolbox by UCSD](https://www.coursera.org/learn/algorithmic-toolbox) - Good Problem Sets, Beginner Friendly
+3. [Network Science](http://networksciencebook.com/chapter/1) - Networks and Graphs
+
 
 ## Useful Chrome Extensions
 >*Note: If a link doesn't work, search on Google once? If still in doubt, [ask me](https://github.com/arpitkaushal/tipsandhacks#competitive-programming).*
