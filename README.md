@@ -11,6 +11,7 @@ Just my 2 cents. Useful resources I came across.
    2. [Competitive Programming / Interview Prep](#competitive-programming--interview-prep)
 4. [Online Courses](#online-courses)
 5. [Useful Chrome Extensions](#useful-chrome-extensions)
+6. [Frameworks](#frameworks)
 
 ## Resources for Learning Git
 >*Note: Follow these in order* 
@@ -30,7 +31,10 @@ Signup for GitHub Student with your institute ID to avail tons of free (which is
 ## Coding Practice
 ### For Introduction
 1. [Exercism.io](https://exercism.io/) - CLI Interface submissions. Familiarity with terminal required.
+
 2. [Nodeschool.io](https://nodeschool.io/) - Tutorial Packages with exercise have to be completed on your own system, and the app checks your progress locally.
+
+
 3. Educative.io 
    >*Note: Make sure you've signed up on [Educative.io](https://educative.io/) via GitHub Student Devleoper.*
    1. [Learn C++ from Scratch](https://www.educative.io/courses/learn-cpp-from-scratch) - Excellent Tutorials with ample exercise along the way.
@@ -38,7 +42,9 @@ Signup for GitHub Student with your institute ID to avail tons of free (which is
    3. [RegEx in Py](https://www.educative.io/courses/python-regular-expressions-with-data-scraping-projects/) - Has Single File Projects
    4. [JS App from Scratch](https://www.educative.io/courses/the-complete-javascript-course-build-a-real-world-app-from-scratch)  - Social News Web Application
    5. [Machine Learning for Software Engineers](https://www.educative.io/courses/machine-learning-for-software-engineers) - Numby, Panda, SciKit, Keras, TF
-   6.  [Machine Learning Track](https://www.educative.io/track/become-ml-engineer) - 5 courses. Great Deal.  
+   6.  [Machine Learning Track](https://www.educative.io/track/become-ml-engineer) - 5 courses. Great Deal. 
+
+
 4. Node.js on Next.tech
    >*Note: Make sure you've signed up on [Next.tech](https://next.tech/) via GitHub Student Devleoper.*
    1. [Learning Node.js Fundamentals](https://next.tech/catalog/learning-node-js-fundamentals) - Create a Note keeping app as part of the course. No GUI, only Command Line Interface (CLI).   
@@ -71,3 +77,7 @@ Signup for GitHub Student with your institute ID to avail tons of free (which is
 4. [Quick Key](https://chrome.google.com/webstore/detail/quickey-%E2%80%93-the-quick-tab-s/ldlghkoiihaelfnggonhjnfiabmaficg) - Switch between Tabs seemlessly. Just press `Alt + Q` and type the tab's name, or even the content on that  tab. You'll save tons of time, trust me!
 5. [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en) - Save a set of tabs/windows for later, name those sessions, access them quickly. 
    `I find it useful because I get distracted a lot and multitask, so to save other windows in relevant sessions (to be accessed later), and focus on priority tasks. `
+
+## Frameworks
+1. [Socket.io](https://socket.io/get-started/chat/) - Node.js Backend hosted online. 
+2. [Electron.js](https://www.electronjs.org/) - Cross Platform Desktop Apps with HTML,CSS and Js. 
