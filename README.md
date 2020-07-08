@@ -62,10 +62,13 @@ Signup for GitHub Student with your institute ID to avail tons of free (which is
       1. [6 DP Problems for Interview](https://www.educative.io/blog/6-dp-problems-to-solve-for-your-next-coding-interview) - Commonly asked problems
 6. [Next.tech](https://next.tech) - 100 JS Challenges     
 
-## Online Courses
-1. [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/) - Using Octave/MATLAB
-2. [Algorithmic Toolbox by UCSD](https://www.coursera.org/learn/algorithmic-toolbox) - Good Problem Sets, Beginner Friendly
+## Online Courses 
+>Note: (T) marked courses have been taken by me personally. 
+1. [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/) - Using Octave/MATLAB **(T)**
+2. [Algorithmic Toolbox by UCSD](https://www.coursera.org/learn/algorithmic-toolbox) - Good Problem Sets, Beginner Friendly. **(T)**
 3. [Network Science](http://networksciencebook.com/chapter/1) - Networks and Graphs
+4. [Y Combinator](https://www.startupschool.org/) - Get started with reading relevant to Entrepeneurship. 
+5. [Investopedia](https://www.investopedia.com/) - For reading material. *Hey if you have a better introductory course on finance/fin-tech please mail me!*.  
 
 
 ## Useful Chrome Extensions
@@ -77,7 +80,9 @@ Signup for GitHub Student with your institute ID to avail tons of free (which is
 4. [Quick Key](https://chrome.google.com/webstore/detail/quickey-%E2%80%93-the-quick-tab-s/ldlghkoiihaelfnggonhjnfiabmaficg) - Switch between Tabs seemlessly. Just press `Alt + Q` and type the tab's name, or even the content on that  tab. You'll save tons of time, trust me!
 5. [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en) - Save a set of tabs/windows for later, name those sessions, access them quickly. 
    `I find it useful because I get distracted a lot and multitask, so to save other windows in relevant sessions (to be accessed later), and focus on priority tasks. `
+6. [Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja?hl=en) - Double click on a word to see it's meaning. Pretty slick imo.
 
 ## Frameworks
 1. [Socket.io](https://socket.io/get-started/chat/) - Node.js Backend hosted online. 
 2. [Electron.js](https://www.electronjs.org/) - Cross Platform Desktop Apps with HTML,CSS and Js. 
+3. [Streamlit](https://www.streamlit.io/) - Fast way to build data apps. Python. [Example Project](https://covid-19-dashboard-akola.herokuapp.com/)
