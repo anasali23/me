@@ -22,11 +22,12 @@ Just my 2 cents. Useful resources I came across.
 4. [Git Visualization Tool](http://git-school.github.io/visualizing-git/) - Excellent tool to help visualize and understand workflow.
 
 ## GitHub Student Developer
-Signup for GitHub Student with your institute ID to avail tons of free (which is otherwise paid) services. Just Search for `GitHub Student` on Google, and the first result. 
+Signup for GitHub Student with your institute ID to avail tons of free (which is otherwise paid) services. Just Search for `GitHub Student` on Google, and the first result. You can try [this](https://education.github.com/pack) link.
 1. GitHub Pro - Complimentary as long as you're a student.
 2. [Next.Tech](https://next.tech/)
 3. [Educative.io](https://educative.io/)
 4. BootStrap Pro - Free as long as you're a student.
+5. [Interview Cake](https://www.interviewcake.com/) - 3 weeks trial. Well Structured course. Detailed Discussion on problems. 
 
 ## Coding Practice
 ### For Introduction
