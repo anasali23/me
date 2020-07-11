@@ -49,6 +49,7 @@ Signup for GitHub Student with your institute ID to avail tons of free (which is
    >*Note: Make sure you've signed up on [Next.tech](https://next.tech/) via GitHub Student Devleoper.*
    1. [Learning Node.js Fundamentals](https://next.tech/catalog/learning-node-js-fundamentals) - Create a Note keeping app as part of the course. No GUI, only Command Line Interface (CLI).   
    2. [Asynchronous Programming in Node.js](https://next.tech/catalog/asynchronous-programming-in-node-js) - CLI App to fetch weather data of a Location. Make use of `Google GeoCode API` and `OpenWeatherMaps API`. Highly recommended Course. 
+
 5. [Awesome Roadmaps](https://roadmap.sh/) - Curated paths in Software-WebDev-ML to prevent you from getting lost. 
    
 ### Competitive Programming / Interview Prep
@@ -64,11 +65,13 @@ Signup for GitHub Student with your institute ID to avail tons of free (which is
 
 ## Online Courses 
 >Note: (T) marked courses have been taken by me personally. 
-1. [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/) - Using Octave/MATLAB **(T)**
-2. [Algorithmic Toolbox by UCSD](https://www.coursera.org/learn/algorithmic-toolbox) - Good Problem Sets, Beginner Friendly. **(T)**
-3. [Network Science](http://networksciencebook.com/chapter/1) - Networks and Graphs
-4. [Y Combinator](https://www.startupschool.org/) - Get started with reading relevant to Entrepeneurship. 
-5. [Investopedia](https://www.investopedia.com/) - For reading material. *Hey if you have a better introductory course on finance/fin-tech please mail me!*.  
+
+1. [The Missing Semester by MIT](https://missing.csail.mit.edu/) - A bunch of skills like CLI, Scripting, Git, and Debugging etc. are stuff we pick up along the way through experience. These students from MIT have made that process easy for us. Check out their website, or if in a hurry see [this](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) (and [this](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv) if you're ready to dive into some witch craft) YT playlist.
+2. [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/) - Using Octave/MATLAB **(T)**
+3. [Algorithmic Toolbox by UCSD](https://www.coursera.org/learn/algorithmic-toolbox) - Good Problem Sets, Beginner Friendly. **(T)**
+4. [Network Science](http://networksciencebook.com/chapter/1) - Networks and Graphs
+5. [Y Combinator](https://www.startupschool.org/) - Get started with reading relevant to Entrepeneurship. 
+6. [Investopedia](https://www.investopedia.com/) - For reading material. *Hey if you have a better introductory course on finance/fin-tech please mail me!*.  
 
 
 ## Useful Chrome Extensions
