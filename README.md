@@ -26,8 +26,12 @@ Signup for GitHub Student with your institute ID to avail tons of free (which is
 1. GitHub Pro - Complimentary as long as you're a student.
 2. [Next.Tech](https://next.tech/)
 3. [Educative.io](https://educative.io/)
-4. BootStrap Pro - Free as long as you're a student.
+4. BootStrap Studio Pro - Free as long as you're a student.
 5. [Interview Cake](https://www.interviewcake.com/) - 3 weeks trial. Well Structured course. Detailed Discussion on problems. 
+6. [Datacamp](https://www.datacamp.com/) - 3 months trial
+7. [Canva Pro](https://www.canva.com/) - Free for a year.
+8. Personal Domains
+   1. www.yourname.tech]
 
 ## Coding Practice
 ### For Introduction
