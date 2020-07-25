@@ -12,6 +12,7 @@ Just my 2 cents. Useful resources I came across.
 4. [Online Courses](#online-courses)
 5. [Useful Chrome Extensions](#useful-chrome-extensions)
 6. [Frameworks](#frameworks)
+7. [Downloading Movie](#downloading-movie)
 
 ## Resources for Learning Git
 >*Note: Follow these in order* 
@@ -94,3 +95,22 @@ Signup for GitHub Student with your institute ID to avail tons of free (which is
 1. [Socket.io](https://socket.io/get-started/chat/) - Node.js Backend hosted online. 
 2. [Electron.js](https://www.electronjs.org/) - Cross Platform Desktop Apps with HTML,CSS and Js. 
 3. [Streamlit](https://www.streamlit.io/) - Fast way to build data apps. Python. [Example Project](https://covid-19-dashboard-akola.herokuapp.com/)
+
+## Downloading Movie
+Torrents are small files, and act like links that help you download files from the internet. So, to download something, you need it's link, or in our case it's torrent. However, to download files from a torrent, we need a special software (or app), known as a **`Torrent Client`**.
+So, to download something, we need it's torrent (we'll find it using a 'torrent' search engine), and then a Torrent Client  to download it. 
+
+1. Download and install [this](https://drive.google.com/file/d/1DV7Phvk_3me0kZ70r4GRQBfbeodZDVZ5/view?usp=sharing) Torrent Search Engine. This helps us to find the torrents we need. 
+2. Download and isntall [this](https://play.google.com/store/apps/details?id=com.delphicoder.flud&hl=en_IN) Torrent Client. App's name is `Flud`. 
+
+> Check that both apps have installed on your device. 
+Let us now see how it works with an example. 
+
+3. Consider that we want to download **The Matrix (1999)**. So, open the Torrent Search Engine App, and in the search box, type `The Matrix 1999`. *For movies, it helps to write the name as well as year of release.* Make sure that the spelling is correct (very important). 
+4. Once you hit the search button, a screen will show a list. This is a list of torrents. 
+5. There is a property of the torrent, called `Seed`. Find the torrent with highest number of seeds (it's usually the first torrent on the list). If the Number of `Seeds` is greater than 20, you'll not have any issue.
+6. On the screen, above the list, there are different tabs which show different sources of the torrent. For movies, the best source is `YTS(YIFY)` or sometimes written as `YIFY`. For other types of files, `1337x` is the best. Sometimes, if `YIFY` doesn't show up in results for a movie, you can easily trust `1337x`.
+7. So, now, switch to the `YTS(YIFY)` tab or `1337x` tab, by tapping on their name. This will open their respective list. 
+8. Tap on the first (or the one with maximum `seeds`) torrent. With movies, there are sometimes two different torrents, one with `1080p` resolution and another with `720p`. So, choose the one according to your needs and bandwidth (or Internet data pack).  
+9. On tapping the item in list, the app will give you 3 options. Choose the option, **`Download with Torrent Client`**. This will open the Torrent Client (called `Flud`) we downloaded in Step 2. 
+10. On this screen, just tap on the **`+`** sign on the `top right corner` and voila, your download should begin in about a minute. 
