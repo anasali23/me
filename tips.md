@@ -12,7 +12,7 @@ Just my 2 cents. Useful resources I came across.
 4. [Online Courses](#online-courses)
 5. [Useful Chrome Extensions](#useful-chrome-extensions)
 6. [Frameworks](#frameworks)
-7. [Downloading Movie](#downloading-movie)
+7. [Downloading a Movie using Torrents](#downloading-a-movie-using-torrents)
 
 ## Resources for Learning Git
 >*Note: Follow these in order* 
@@ -96,7 +96,7 @@ Signup for GitHub Student with your institute ID to avail tons of free (which is
 2. [Electron.js](https://www.electronjs.org/) - Cross Platform Desktop Apps with HTML,CSS and Js. 
 3. [Streamlit](https://www.streamlit.io/) - Fast way to build data apps. Python. [Example Project](https://covid-19-dashboard-akola.herokuapp.com/)
 
-## Downloading Movie
+## Downloading a Movie using Torrents
 Torrents are small files, and act like links that help you download files from the internet. So, to download something, you need it's link, or in our case it's torrent. However, to download files from a torrent, we need a special software (or app), known as a **`Torrent Client`**.
 So, to download something, we need it's torrent (we'll find it using a 'torrent' search engine), and then a Torrent Client  to download it. 
 
