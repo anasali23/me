@@ -13,6 +13,7 @@ Just my 2 cents. Useful resources I came across.
 5. [Useful Chrome Extensions](#useful-chrome-extensions)
 6. [Frameworks](#frameworks)
 7. [Downloading a Movie using Torrents](#downloading-a-movie-using-torrents)
+8. [Downloading an audiobook using Torrents](#downloading-an-audiobook-using-torrents)
 
 ## Resources for Learning Git
 >*Note: Follow these in order* 
@@ -77,7 +78,8 @@ Signup for GitHub Student with your institute ID to avail tons of free (which is
 3. [Algorithmic Toolbox by UCSD](https://www.coursera.org/learn/algorithmic-toolbox) - Good Problem Sets, Beginner Friendly. **(T)**
 4. [Network Science](http://networksciencebook.com/chapter/1) - Networks and Graphs
 5. [Y Combinator](https://www.startupschool.org/) - Get started with reading relevant to Entrepeneurship. 
-6. [Investopedia](https://www.investopedia.com/) - For reading material. *Hey if you have a better introductory course on finance/fin-tech please mail me!*.  
+6. [Investopedia](https://www.investopedia.com/) - For reading material. *Hey if you have a better introductory course on finance/fin-tech please mail me!*.
+7. [Discrete Math](http://discrete.openmathbooks.org/dmoi3/) - A free interactive book to teach yourself Discrete Math.  
 
 
 ## Useful Chrome Extensions
@@ -101,7 +103,7 @@ Torrents are small files, and act like links that help you download files from t
 So, to download something, we need it's torrent (we'll find it using a 'torrent' search engine), and then a Torrent Client  to download it. 
 
 1. Download and install [this](https://drive.google.com/file/d/1DV7Phvk_3me0kZ70r4GRQBfbeodZDVZ5/view?usp=sharing) Torrent Search Engine. This helps us to find the torrents we need. 
-2. Download and isntall [this](https://play.google.com/store/apps/details?id=com.delphicoder.flud&hl=en_IN) Torrent Client. App's name is `Flud`. 
+2. Download and install [this](https://play.google.com/store/apps/details?id=com.delphicoder.flud&hl=en_IN) Torrent Client. App's name is `Flud`. 
 
 > Check that both apps have installed on your device. 
 Let us now see how it works with an example. 
@@ -114,3 +116,18 @@ Let us now see how it works with an example.
 8. Tap on the first (or the one with maximum `seeds`) torrent. With movies, there are sometimes two different torrents, one with `1080p` resolution and another with `720p`. So, choose the one according to your needs and bandwidth (or Internet data pack).  
 9. On tapping the item in list, the app will give you 3 options. Choose the option, **`Download with Torrent Client`**. This will open the Torrent Client (called `Flud`) we downloaded in Step 2. 
 10. On this screen, just tap on the **`+`** sign on the `top right corner` and voila, your download should begin in about a minute. 
+
+## Downloading an audiobook using Torrents
+I've written the below instructions assuming that you're not familiar with torrents and will execute the isntructions on a smartphone (and not a PC).  
+Torrents are small files, and act like links that help you download files from the internet. So, to download something, you need it's link, or in our case it's torrent. However, to download files from a torrent, we need a special software (or app), known as a **`Torrent Client`**.
+So, to download something, we need it's torrent (we'll find it using a 'torrent' search engine), and then a Torrent Client  to download it. 
+
+1. Download and install [this](https://play.google.com/store/apps/details?id=com.delphicoder.flud&hl=en_IN) Torrent Client. App's name is `Flud`. Give the permissions it asks for, generally just storage access. 
+2. The Torrent Search Engine in this case is going to be [this](http://audiobookbay.net/) website. Sign up (it's free) on this website, and remember your login ccredentials.
+3. After you've successfully logged in, search for a book title, let's say `The Kite Runner by Khaled Hosseini`. So, you could type `the kite runner` or `khaled hosseni` in the search box. *Make sure you spell the title/author name correctly, else it might not work.* 
+4. The website will display a list of results, choose the one you desire and click/tap on it. *Sometimes there are two different results with exactly the same title. In that case, you should first try the most recent upload.*
+5. On the book's page, ther will be a short description/synopsis of the title. And right below it will be a table (usually very long) that contains the details about the files to download. Scroll down towards the end of the table, and you'll find a row that'll read 
+`Torrent Download:	Torrent Free Downloads | Magnet` 
+6. Now, tap on `Magnet`. If you are logged in, soon a small Horseshoe magnet icon (U shape) will appear right next to `Magnet` (in the same row of table). Tap on it. This should open `Flud` (app from Step 1) automatically. On this screen, just tap on the **`+`** sign on the `top right corner` and voila, your download should begin in about a minute. 
+>*Note: Sometimes the download doesn't begin right away or is very slow, I'd suggest you to be patient with it and wait at least for a day or two.*
+If stuck somewhere, you know how to reach me! Bye. :) 
