@@ -9,6 +9,9 @@ Note: The below Physical Activites will be executed keeping in mind that social 
 2. Cardio/Gym Sessions on Football ground by Gym Instructor. He'll be in the center and a loud speaker will be arranged so that people can follow instructions from a distance. 
 3. Stand on Roofs and Make noise/sing as a team? Something to do on the terrace. 
 4. Dumb Charades
+5. Simplified Sports 
+   1. Shoot maximum baskets
+   2. Penalty Shoot-outs
  
 
 ## Agendas 
